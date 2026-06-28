@@ -308,3 +308,5 @@ with tab_similarity:
 with tab_el:
     st.header("🧪 E/L Screening")
     st.info("E/L screening module will be added later.")
+
+st.caption("UVX PhotoAssistant v0.1 | Developed by Bowen Wang")
