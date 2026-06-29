@@ -46,8 +46,7 @@ with home:
     st.write(
         "UVX Photochemistry is an open-access platform for researchers and engineers "
         "working with photoinitiators, photopolymerization, UV/LED curing, "
-        "photoactive materials, polymers, medical devices, pharmaceutical packaging, "
-        "and extractables/leachables (E/L)."
+        "photoactive materials."
     )
 
     st.write(
